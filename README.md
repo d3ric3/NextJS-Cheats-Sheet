@@ -29,7 +29,7 @@ npm run dev
 
   function MyPage() {
     return (
-      <Link href='page_to_page'>Some text here</Link>
+      <Link href='path_to_page'>Some text here</Link>
     );
   }
 ```
